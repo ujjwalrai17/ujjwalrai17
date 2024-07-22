@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ujjwal Rai
-- 👀 I’m interested to code in programming languages like C, C++, Java, and also Web Development
-- 🌱 I’m currently learning JAVA
+- 👀 I’m interested to code in programming languages like C, , Java,Python, JavaScript and also Web Development
+- 🌱 I’m currently learning JAVA and JAVASCRIPT.
 - 💞️ I’m looking to collaborate on my recent projects.
 
 <!---
