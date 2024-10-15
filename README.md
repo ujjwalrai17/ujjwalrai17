@@ -23,7 +23,7 @@ I'm a 2nd-year engineering student passionate about software development, machin
 
 ## 📫 Let's Connect!
 - **LinkedIn**: https://www.linkedin.com/in/ujjwal-rai-89b700324(#)
-- **Email**: (mailto:ujjwalrai0429@gmail.com)
+- **Email**: (ujjwalrai0429@gmail.com)
 
 ---
 
