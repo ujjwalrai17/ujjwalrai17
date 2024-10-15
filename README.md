@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ujjwal!
 
-![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Developer GIF](https://private-user-images.githubusercontent.com/74038190/242390524-0c7)
 
 I'm a 2nd-year engineering student passionate about **Java development**, **machine learning**, and **DevOps**. I have experience building applications with Java & Spring Boot, and I'm currently exploring the exciting world of **data science** and **AI**. My future plans include diving into DevOps to streamline development and deployment processes.
 
