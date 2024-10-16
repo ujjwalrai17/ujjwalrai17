@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ujjwal!
 
-https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
+---https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkwMTg1MDYsIm5iZiI6MTcyOTAxODIwNiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDE1VDE4NTAwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZjNDNjNjMzODk3NzFlZjZjMTczZDhhNDk4MWU0NjM2YTllYzU0ODliNWM1MzQ3OTAyOWY4ZjdkMTVjNjlkOTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.kW47m93opxcstSgNqUzIomEC0k6jZg0AkChCTiwY5Zo
 
 I'm an undergraduate engineering student passionate about **Java development**, **machine learning**, and **DevOps**. I have experience building applications with Java & Spring Boot, and I'm currently exploring the exciting world of **data science** and **AI**. My future plans include diving into DevOps to streamline development and deployment processes.
 
