@@ -36,7 +36,7 @@ I'm an undergraduate engineering student passionate about **Java development**, 
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujjwalrai17&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujjwalrai17&show_icons=true&theme=tokyonight)
 
 
 
