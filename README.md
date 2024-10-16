@@ -32,6 +32,9 @@ I'm an undergraduate engineering student passionate about **Java development**, 
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=green)
+
+
 ![Code GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 
