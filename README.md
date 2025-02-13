@@ -28,7 +28,7 @@ I'm an undergraduate engineering student passionate about **Java development**, 
 
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-rai-89b700324)
 - **Email**: (ujjwalrai0429@gmail.com)
-- **Leetcode**: (https://leetcode.com/u/ujjwal_kumar_rai/)
+  
 
 ---
 
