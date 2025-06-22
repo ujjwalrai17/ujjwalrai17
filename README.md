@@ -36,7 +36,6 @@ I'm an undergraduate engineering student passionate about **Java development**, 
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalrai17&hide=c,html&layout=compact&theme=radical)
 
 
 
