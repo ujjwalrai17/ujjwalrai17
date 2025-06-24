@@ -2,36 +2,33 @@
 
 ![Main Gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-I'm an undergraduate engineering student passionate about **Java development**, and **DevOps**. I have hands-on experience building scalable backend systems with **Java & Spring Boot**, and I'm expanding my skillset in backend technologies and cloud-native development.
+I'm an undergraduate engineering student focused on **backend development** using **Java** and the **Spring ecosystem**. I enjoy building robust REST APIs, working with relational databases, and writing clean, testable code. I'm constantly learning and growing as a backend engineer, aiming to create scalable and maintainable systems.
 
 ---
 
-## 🚀 Skills & Technologies:
+## 🚀 Core Skills & Technologies:
 
-### 👨‍💻 Java Full-Stack Developer
-- **Languages**: ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white), SQL, HTML, CSS, JavaScript
-- **Backend Frameworks**: ![Spring Boot Badge](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white), Hibernate, JPA
-- **Frontend Tools**: Thymeleaf, Bootstrap (learning React)
-- **Databases**: MySQL, PostgreSQL
-- **Testing**: JUnit
-- **Build & Version Control**: Maven, Git, GitHub
-
-### 🛠️ DevOps Enthusiast
-- **Tools & Platforms**: Docker, CI/CD (learning), Linux
-- **Cloud Exposure**: ![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white), ![GCP Badge](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+### 🧠 Backend Development with Java & Spring
+- **Languages**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white), SQL
+- **Frameworks**: ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white), Spring Core, Spring MVC, Spring Data JPA, Spring Security
+- **ORM & Persistence**: Hibernate, JPA
+- **API Development**: RESTful services, DTOs, validation
+- **Testing**: JUnit, Mockito (learning)
+- **Build Tools**: Maven
+- **Version Control**: Git, GitHub
+- **Database**: MySQL, PostgreSQL (basic)
+- **Other Tools**: JDBC, Swagger (API documentation)
 
 ---
 
 ## 📫 Let's Connect!
 
-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-rai-89b700324)
-- **Email**: ujjwalrai0429@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-rai-89b700324)
+- 📧 **Email**: ujjwalrai0429@gmail.com
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ujjwalrai17&color=green)
-
----
 
 ![Code GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
