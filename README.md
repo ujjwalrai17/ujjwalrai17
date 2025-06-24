@@ -1,7 +1,8 @@
 # 👋 Hello, I'm Ujjwal!
 
 ![Main Gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-![Docker Whale](https://user-images.githubusercontent.com/74038190/224553978-07aab602-1739-4a55-98ce-2ec7580b9b9b.gif)
+![Java Brain](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
+
 
 
 I'm an undergraduate engineering student focused on **backend development** using **Java** and the **Spring ecosystem**. I enjoy building robust REST APIs, working with relational databases, and writing clean, testable code. I'm constantly learning and growing as a backend engineer, aiming to create scalable and maintainable systems.
