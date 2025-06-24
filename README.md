@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Ujjwal!
 
 ![Main Gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-![Java Brain](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
+
 
 
 
@@ -34,6 +34,7 @@ I'm an undergraduate engineering student focused on **backend development** usin
 ![Profile Views](https://komarev.com/ghpvc/?username=ujjwalrai17&color=green)
 
 ![Code GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![Java Brain](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
 
 <!---
 ujjwalrai17/ujjwalrai17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
