@@ -12,15 +12,63 @@ I'm an undergraduate engineering student focused on **backend development** usin
 ## 🚀 Core Skills & Technologies:
 
 ### 🧠 Backend Development with Java & Spring
-- **Languages**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white), SQL
-- **Frameworks**: ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white), Spring Core, Spring MVC, Spring Data JPA, Spring Security
-- **ORM & Persistence**: Hibernate, JPA
-- **API Development**: RESTful services, DTOs, validation
-- **Testing**: JUnit, Mockito (learning)
-- **Build Tools**: Maven
-- **Version Control**: Git, GitHub
-- **Database**: MySQL, PostgreSQL (basic)
-- **Other Tools**: JDBC, Swagger (API documentation)
+### 🚀 Tech Stack & Tools
+
+#### 🧑‍💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+#### ⚙️ Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+
+---
+
+#### 🗃 ORM & Persistence
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white)
+
+---
+
+#### 🔗 API Development
+![REST](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![DTO](https://img.shields.io/badge/DTO-FF6F00?style=for-the-badge)
+![Validation](https://img.shields.io/badge/Validation-4CAF50?style=for-the-badge)
+
+---
+
+#### ✅ Testing
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-1E8CBE?style=for-the-badge)
+
+---
+
+#### 🧰 Build Tools
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
+---
+
+#### 🔄 Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+#### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+#### 🧪 Other Tools
+![JDBC](https://img.shields.io/badge/JDBC-336791?style=for-the-badge&logo=java&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
 
 ---
 
