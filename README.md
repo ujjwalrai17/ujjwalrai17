@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ujjwal!
+<h1 align="center">👋 Hello, I'm <span style="color:#4CAF50;">Ujjwal Rai</span>!</h1>
 
 ![Main Gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
