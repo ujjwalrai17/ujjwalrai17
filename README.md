@@ -33,8 +33,12 @@ I'm an undergraduate engineering student focused on **backend development** usin
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ujjwalrai17&color=green)
 
-![Code GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-![Java Brain](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
+## 🎥 A Bit of My Dev Vibe
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="45%" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="45%" />
+</div>
 
 <!---
 ujjwalrai17/ujjwalrai17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
